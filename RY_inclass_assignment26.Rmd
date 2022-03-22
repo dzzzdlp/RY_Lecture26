@@ -1,5 +1,7 @@
 ---
 title: "RY_inclass_assignment26"
+author: "Ruitong Yuan"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: pdf_document
 ---
 
