@@ -1,0 +1,19 @@
+---
+title: "RY_inclass_assignment26"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+# sample of size 100
+Y <- rnorm( 100)
+hist(Y)
+```
+\newpage
+
+![Gauss^[Johann Carl Friedrich Gauss was a German mathematician and physicist]](Karl Frederick Gauss.jpeg){width=35%}
+
